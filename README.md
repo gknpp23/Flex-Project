@@ -53,6 +53,8 @@ Here's a brief overview of the Flexbox topics covered in the project:
 
 Check out the **live demo** of the project here: [Flex-Project Website Demo](https://flex-project-site.netlify.app/)
 
+![image](https://github.com/user-attachments/assets/4d6e0052-26e5-4d9d-88e4-019876f17a19)
+
 ---
 
 ## 🤝 Contributions
@@ -78,3 +80,6 @@ This project aims to:
 - Serve as a foundational tool for mastering modern CSS layout techniques.
 
 ---
+
+<br>
+<h2 align="center"> <em>&lt;/&gt;</em>  by <a href="https://github.com/gknpp23" target="_blank">Gabriel Knupp</a> </h2>
